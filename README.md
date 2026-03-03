@@ -41,7 +41,7 @@ Ollama nainstalovaná a funkční pro běh LLM analýzy
 Internetové připojení pro komunikaci s Google Places API
 
 Spuštění:
-Program se spouští příkazem python main.py. V CLI rozhraní lze použít příkaz "run" pro spuštění batch zpracování, "stats" pro zobrazení počtu firem v databázi, "reset-db" pro smazání databáze a "exit" pro ukončení programu.
+Program se spouští souborem SETUP.bat. V CLI rozhraní lze použít příkaz "run" pro spuštění batch zpracování, "stats" pro zobrazení počtu firem v databázi, "reset-db" pro smazání databáze a "exit" pro ukončení programu.
 
 Upozornění:
 Používání Google Places API podléhá podmínkám služby společnosti Google a může být zpoplatněno podle aktuálního ceníku. Autor nenese odpovědnost za případné náklady vzniklé používáním API klíče ani za způsob, jakým je nástroj využíván.
