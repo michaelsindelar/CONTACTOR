@@ -1,0 +1,151 @@
+
+2026-03-02 20:49:21,982 | INFO | Celkový počet firem v databázi: 16
+2026-03-02 20:49:42,398 | INFO | Stahuji firmy z Google Places...
+2026-03-02 20:52:16,132 | INFO | Celkový počet firem v databázi: 0
+2026-03-02 20:52:43,893 | INFO | Stahuji firmy z Google Places...
+2026-03-02 20:52:44,345 | INFO | Přidána nová firma do DB: RE/MAX Delux - Realitní kancelář Brno
+2026-03-02 20:52:44,346 | INFO | Firma již existuje v DB: CENTURY 21 All Inclusive
+2026-03-02 20:52:44,347 | INFO | Firma již existuje v DB: BRAVIS REALITY s.r.o.
+2026-03-02 20:52:44,347 | INFO | Firma již existuje v DB: COLOSEUM REAL ESTATE Ltd.
+2026-03-02 20:52:44,348 | INFO | Firma již existuje v DB: Svoboda & Williams, realitní kancelář - Brno
+2026-03-02 20:52:44,349 | INFO | Firma již existuje v DB: Realitní kancelář Brno Bystrc
+2026-03-02 20:52:44,349 | INFO | Firma již existuje v DB: Real Spektrum, Inc.
+2026-03-02 20:52:44,350 | INFO | Firma již existuje v DB: UNICAREAL - realitní kancelář Brno
+2026-03-02 20:52:44,351 | INFO | Firma již existuje v DB: Reality Gregor s. r. o.
+2026-03-02 20:52:44,351 | INFO | Firma již existuje v DB: Realitní kancelář DVL Brno reality s.r.o.
+2026-03-02 20:52:44,352 | INFO | Firma již existuje v DB: OPENREALITY & partners, s.r.o.
+2026-03-02 20:52:44,353 | INFO | Firma již existuje v DB: I.E.T. Reality, s.r.o.
+2026-03-02 20:52:44,355 | INFO | Firma již existuje v DB: RE/MAX Pro
+2026-03-02 20:52:44,357 | INFO | Firma již existuje v DB: ATHOS reality s.r.o.
+2026-03-02 20:52:44,358 | INFO | Firma již existuje v DB: REALYX - realitní kancelář
+2026-03-02 20:52:44,358 | INFO | Firma již existuje v DB: Reality Brno cz S.r.o.
+2026-03-02 20:52:44,359 | INFO | Firma již existuje v DB: TMM reality s.r.o.
+2026-03-02 20:52:44,360 | INFO | Firma již existuje v DB: Igor Loškár - realitní makléř RE/MAX Delux
+2026-03-02 20:52:44,361 | INFO | Firma již existuje v DB: FIEDLER REALITY s.r.o.
+2026-03-02 20:52:44,361 | INFO | Firma již existuje v DB: REALITY JANDA
+2026-03-02 20:52:46,750 | INFO | Firma již existuje v DB: CENTURY 21 Bonus Brno
+2026-03-02 20:52:46,751 | INFO | Firma již existuje v DB: Icbreality s.r.o.
+2026-03-02 20:52:46,751 | INFO | Firma již existuje v DB: REALITY BRNO CZ sro
+2026-03-02 20:52:46,752 | INFO | Firma již existuje v DB: SMS reality - Brno
+2026-03-02 20:52:46,752 | INFO | Firma již existuje v DB: Riff, s.r.o.
+2026-03-02 20:52:46,754 | INFO | Firma již existuje v DB: RE/MAX G8 Reality, realitní kancelář, Brno
+2026-03-02 20:52:46,754 | INFO | Firma již existuje v DB: AC Real
+2026-03-02 20:52:46,754 | INFO | Firma již existuje v DB: Realitní tým Zdeňka Štourače Reality Brno
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: PEGAS REAL & DEVELOPMENT, s.r.o.
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: Home4living
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: Reality pro Vás s.r.o
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: Morava Reality
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: RE/MAX Ing. Tomáš Vildomec, BA - realitní makléř
+2026-03-02 20:52:46,755 | INFO | Firma již existuje v DB: Mgr. Monika Sedláková, Realitní makléř - realitní kancelář Brno
+2026-03-02 20:52:46,756 | INFO | Firma již existuje v DB: NEXT REALITY 28
+2026-03-02 20:52:46,756 | INFO | Firma již existuje v DB: Real-Aktiv
+2026-03-02 20:52:46,756 | INFO | Firma již existuje v DB: Nejlepší bydlení realitní společnost, s.r.o.
+2026-03-02 20:52:46,757 | INFO | Firma již existuje v DB: TUZEMSKÁ REALITNÍ s.r.o.
+2026-03-02 20:52:46,757 | INFO | Firma již existuje v DB: ACROSS HOME s.r.o.
+2026-03-02 20:52:46,757 | INFO | Firma již existuje v DB: Riva Reality S.r.o.
+2026-03-02 20:52:49,187 | INFO | Firma již existuje v DB: STING Real estate agency - Brno
+2026-03-02 20:52:49,189 | INFO | Firma již existuje v DB: Realingo.cz
+2026-03-02 20:52:49,190 | INFO | Firma již existuje v DB: T.S.reality, s.r.o.
+2026-03-02 20:52:49,190 | INFO | Firma již existuje v DB: ZAJEDNO reality
+2026-03-02 20:52:49,191 | INFO | Firma již existuje v DB: RE/MAX Alfa, realitní kancelář Brno
+2026-03-02 20:52:49,192 | INFO | Firma již existuje v DB: Realitní kancelář Brno - NEXT reality - Petr Svoboda
+2026-03-02 20:52:49,193 | INFO | Firma již existuje v DB: Real Home Partners, s.r.o.
+2026-03-02 20:52:49,194 | INFO | Firma již existuje v DB: Realitní kancelář RENČ s.r.o.
+2026-03-02 20:52:49,194 | INFO | Firma již existuje v DB: ALVA REAL s.r.o. nabídka nemovitostí
+2026-03-02 20:52:49,195 | INFO | Firma již existuje v DB: Reality jinak, s.r.o.
+2026-03-02 20:52:49,196 | INFO | Firma již existuje v DB: REALITY ACTIV
+2026-03-02 20:52:49,196 | INFO | Firma již existuje v DB: NC reality
+2026-03-02 20:52:49,197 | INFO | Firma již existuje v DB: PATREAL Ltd.
+2026-03-02 20:52:49,198 | INFO | Firma již existuje v DB: MLČOCH reality, partner Justo
+2026-03-02 20:52:49,198 | INFO | Firma již existuje v DB: M&M reality - Brno město
+2026-03-02 20:52:49,199 | INFO | Firma již existuje v DB: M&M reality - Brno 5
+2026-03-02 20:52:49,199 | INFO | Firma již existuje v DB: RE/MAX Delta Brno realitní kancelář
+2026-03-02 20:52:49,200 | INFO | Firma již existuje v DB: SOS Realitní kancelář s.r.o.
+2026-03-02 20:52:49,200 | INFO | Firma již existuje v DB: REALITY MUZEJKA s.r.o.
+2026-03-02 20:52:49,200 | INFO | Firma již existuje v DB: Realitní Leady s.r.o.
+2026-03-02 20:52:49,201 | INFO | Celkem nově přidaných firem: 1
+2026-03-02 20:52:49,201 | INFO | Načteno 1 firem z Google Places.
+2026-03-02 20:52:49,202 | INFO | Spouštím analýzu 1 firem...
+2026-03-02 20:52:49,202 | INFO | Firma již existuje v databázi, přeskočeno: RE/MAX Delux - Realitní kancelář Brno
+2026-03-02 21:30:46,394 | INFO | Celkový počet firem v databázi: 0
+2026-03-02 21:30:58,904 | INFO | Stahuji firmy z Google Places...
+2026-03-02 21:33:05,108 | INFO | Celkový počet firem v databázi: 0
+2026-03-02 21:33:12,868 | INFO | Stahuji firmy z Google Places...
+2026-03-02 21:33:13,448 | INFO | Přidána nová firma do DB: BRAVIS REALITY s.r.o.
+2026-03-02 21:33:13,449 | INFO | Firma již existuje v DB: Real Spektrum, Inc.
+2026-03-02 21:33:13,450 | INFO | Firma již existuje v DB: CENTURY 21 All Inclusive
+2026-03-02 21:33:13,451 | INFO | Firma již existuje v DB: RE/MAX Delux - Realitní kancelář Brno
+2026-03-02 21:33:13,451 | INFO | Firma již existuje v DB: PEGAS REAL & DEVELOPMENT, s.r.o.
+2026-03-02 21:33:13,452 | INFO | Firma již existuje v DB: Svoboda & Williams, realitní kancelář - Brno
+2026-03-02 21:33:13,453 | INFO | Firma již existuje v DB: Real Home Partners, s.r.o.
+2026-03-02 21:33:13,454 | INFO | Firma již existuje v DB: UNICAREAL - realitní kancelář Brno
+2026-03-02 21:33:13,454 | INFO | Firma již existuje v DB: Reality Gregor s. r. o.
+2026-03-02 21:33:13,456 | INFO | Firma již existuje v DB: Home4living
+2026-03-02 21:33:13,457 | INFO | Firma již existuje v DB: Realitní kancelář DVL Brno reality s.r.o.
+2026-03-02 21:33:13,457 | INFO | Firma již existuje v DB: COLOSEUM REAL ESTATE Ltd.
+2026-03-02 21:33:13,458 | INFO | Firma již existuje v DB: ALVA REAL s.r.o. nabídka nemovitostí
+2026-03-02 21:33:13,458 | INFO | Firma již existuje v DB: CENTURY 21 Bonus Brno
+2026-03-02 21:33:13,459 | INFO | Firma již existuje v DB: SMS reality - Brno
+2026-03-02 21:33:13,460 | INFO | Firma již existuje v DB: I.E.T. Reality, s.r.o.
+2026-03-02 21:33:13,461 | INFO | Firma již existuje v DB: Realitní kancelář Brno Bystrc
+2026-03-02 21:33:13,462 | INFO | Firma již existuje v DB: ACROSS HOME s.r.o.
+2026-03-02 21:33:13,462 | INFO | Firma již existuje v DB: OPENREALITY & partners, s.r.o.
+2026-03-02 21:33:13,463 | INFO | Firma již existuje v DB: ATHOS reality s.r.o.
+2026-03-02 21:33:15,993 | INFO | Firma již existuje v DB: Mgr. Monika Sedláková, Realitní makléř - realitní kancelář Brno
+2026-03-02 21:33:15,994 | INFO | Firma již existuje v DB: RE/MAX G8 Reality, realitní kancelář, Brno
+2026-03-02 21:33:15,995 | INFO | Firma již existuje v DB: Realitní tým Zdeňka Štourače Reality Brno
+2026-03-02 21:33:15,996 | INFO | Firma již existuje v DB: Ing. Tomáš Fráňa - realitní makléř RE/MAX Pro
+2026-03-02 21:33:15,997 | INFO | Firma již existuje v DB: TMM reality s.r.o.
+2026-03-02 21:33:15,997 | INFO | Firma již existuje v DB: Icbreality s.r.o.
+2026-03-02 21:33:15,998 | INFO | Firma již existuje v DB: RE/MAX Pro
+2026-03-02 21:33:15,999 | INFO | Firma již existuje v DB: HOME Hunters, s.r.o.
+2026-03-02 21:33:15,999 | INFO | Firma již existuje v DB: PMP Stavební & Realitní s.r.o.
+2026-03-02 21:33:16,000 | INFO | Firma již existuje v DB: FIEDLER REALITY s.r.o.
+2026-03-02 21:33:16,000 | INFO | Firma již existuje v DB: Nejlepší bydlení realitní společnost, s.r.o.
+2026-03-02 21:33:16,001 | INFO | Firma již existuje v DB: Reality pro Vás s.r.o
+2026-03-02 21:33:16,001 | INFO | Firma již existuje v DB: OKNO NEMOVITOSTÍ, s.r.o.
+2026-03-02 21:33:16,002 | INFO | Firma již existuje v DB: Collegas Reality sro
+2026-03-02 21:33:16,002 | INFO | Firma již existuje v DB: ARTOSS realitní kancelář, s.r.o.
+2026-03-02 21:33:16,003 | INFO | Firma již existuje v DB: Reality Brno cz S.r.o.
+2026-03-02 21:33:16,003 | INFO | Firma již existuje v DB: N.K. REAL Brno s.r.o.
+2026-03-02 21:33:16,003 | INFO | Firma již existuje v DB: REALYX - realitní kancelář
+2026-03-02 21:33:16,004 | INFO | Firma již existuje v DB: LANG REAL s.r.o.
+2026-03-02 21:33:16,004 | INFO | Firma již existuje v DB: RE/MAX Alfa, realitní kancelář Brno
+2026-03-02 21:33:18,534 | INFO | Firma již existuje v DB: Luboš Pokorný - realitní makléř
+2026-03-02 21:33:18,535 | INFO | Firma již existuje v DB: RE/MAX Ing. Tomáš Vildomec, BA - realitní makléř
+2026-03-02 21:33:18,536 | INFO | Firma již existuje v DB: AZOLO REALITY | REALITNÍ KANCELÁŘ
+2026-03-02 21:33:18,536 | INFO | Firma již existuje v DB: REALITY MUZEJKA s.r.o.
+2026-03-02 21:33:18,537 | INFO | Firma již existuje v DB: Igor Loškár - realitní makléř RE/MAX Delux
+2026-03-02 21:33:18,538 | INFO | Firma již existuje v DB: PK Real Estate s.r.o.
+2026-03-02 21:33:18,538 | INFO | Firma již existuje v DB: David Raus realitní služby
+2026-03-02 21:33:18,539 | INFO | Firma již existuje v DB: Prodam-reality.cz
+2026-03-02 21:33:18,539 | INFO | Firma již existuje v DB: Realingo.cz
+2026-03-02 21:33:18,540 | INFO | Firma již existuje v DB: Foreigners Group
+2026-03-02 21:33:18,540 | INFO | Firma již existuje v DB: DOMA realitní makléři
+2026-03-02 21:33:18,540 | INFO | Firma již existuje v DB: RE/MAX Permanentia
+2026-03-02 21:33:18,541 | INFO | Firma již existuje v DB: AC Real
+2026-03-02 21:33:18,541 | INFO | Firma již existuje v DB: Riff, s.r.o.
+2026-03-02 21:33:18,541 | INFO | Firma již existuje v DB: RE/MAX Delta Brno realitní kancelář
+2026-03-02 21:33:18,542 | INFO | Firma již existuje v DB: NEXT REALITY 28
+2026-03-02 21:33:18,542 | INFO | Firma již existuje v DB: REALITY JANDA
+2026-03-02 21:33:18,543 | INFO | Firma již existuje v DB: Profimakléřky s.r.o.
+2026-03-02 21:33:18,543 | INFO | Firma již existuje v DB: Morava Reality
+2026-03-02 21:33:18,543 | INFO | Firma již existuje v DB: TUZEMSKÁ REALITNÍ s.r.o.
+2026-03-02 21:33:18,543 | INFO | Celkem nově přidaných firem: 1
+2026-03-02 21:33:18,544 | INFO | Načteno 1 firem z Google Places.
+2026-03-02 21:33:18,544 | INFO | Spouštím analýzu 1 firem...
+2026-03-02 21:33:18,562 | INFO | Firma již existuje v databázi, přeskočeno: BRAVIS REALITY s.r.o.
+2026-03-02 21:33:18,565 | INFO | Batch dokončen. CSV je aktualizované.
+2026-03-02 22:00:18,316 | INFO | Celkový počet firem v databázi: 0
+2026-03-02 22:00:28,882 | INFO | Stahuji firmy z Google Places...
+2026-03-02 22:00:30,174 | INFO | Načteno 5 firem z Google Places.
+2026-03-02 22:00:30,174 | INFO | Spouštím analýzu firem, které ještě nebyly analyzovány...
+2026-03-02 22:00:30,175 | INFO | Batch dokončen. CSV je aktualizované.
+2026-03-02 22:01:28,889 | INFO | Celkový počet firem v databázi: 0
+2026-03-02 22:01:30,067 | INFO | Celkový počet firem v databázi: 0
+2026-03-03 13:40:43,051 | INFO | Celkový počet firem v databázi: 0
+2026-03-03 13:40:59,158 | INFO | Stahuji firmy z Google Places...
+2026-03-03 13:40:59,447 | INFO | Načteno 0 firem z Google Places.
+2026-03-03 13:40:59,447 | INFO | Spouštím analýzu firem, které ještě nebyly analyzovány...
+2026-03-03 13:40:59,448 | INFO | Batch dokončen. CSV je aktualizované.
+2026-03-03 13:41:22,488 | INFO | Celkový počet firem v databázi: 0
