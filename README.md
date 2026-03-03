@@ -1,3 +1,6 @@
+----------------------------------------------------------------------
+!!!!  Momentálně je program z 98% hotový, zbývá ještě dořešit kompatibilitu mezi logikou API a main.py + database.py a bude to kompletní funkční MVP verze !!!!
+----------------------------------------------------------------------
 CONTACTOR – Automated Lead Generation & Website Analysis System
 Copyright © 2026 Michael Šindelář
 All rights reserved.
