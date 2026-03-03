@@ -1,5 +1,5 @@
 CONTACTOR – Automated Lead Generation & Website Analysis System
-Copyright (c) 2026 Michael Šindelář
+Copyright © 2026 Michael Šindelář
 All rights reserved.
 
 Contactor je automatizovaný systém pro generování obchodních leadů pomocí Google Places API a následné analýzy firemních webových stránek pomocí LLM modelu (Ollama). Projekt je navržen jako lokálně běžící nástroj, který umožňuje vyhledat firmy podle klíčového slova a lokace, uložit jejich data do SQLite databáze, analyzovat jejich webový potenciál a exportovat vybrané výsledky do CSV souboru.
